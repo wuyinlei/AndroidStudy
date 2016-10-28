@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidStudy</string>
+
+
+    <string name="selef_book">Bookshelf</string>
+    <string name="book_stack">Recommend</string>
+    <string name="book_care">Ranking</string>
+    <string name="book_disc">Category</string>
+
+    <string name="scale_down_show_behavior">com.ruolan.androidstudy.ScaleDownShowBehavior</string>
+    <string name="scale_up_show_behavior">com.ruolan.androidstudy.ScaleUpShowBehavior</string>
+    <string name="swipe_dismiss_behavior">android.support.design.widget.SwipeDismissBehavior</string>
+
+
+</resources>
